@@ -1,7 +1,6 @@
 #author:mcagabe19
 
 import time
-#import traceback
 import logging
 
 try:
@@ -16,7 +15,5 @@ try:
 
 except:
     logging.exception("An exception was thrown!")
-    # print('Error!!!')
-    # traceback.print_exc()
     print('This Code Will Close After 3 Seconds...')
     time.sleep(3)
