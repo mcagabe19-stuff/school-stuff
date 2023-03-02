@@ -1,4 +1,7 @@
 #author:mcagabe19
+
+import time
+
 number1 = int(input("Number 1 : "))
 number2 = int(input("Number 2 : "))
 number3 = int(input("Number 3 : "))
