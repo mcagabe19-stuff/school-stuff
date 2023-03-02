@@ -4,8 +4,8 @@ import time
 import logging
 
 try:
-    isim = input("Please Type Your Name : ")
-    print('Welcome', isim)
+    name = input("Please Type Your Name : ")
+    print('Welcome', name)
     print('This Code Will Close After 3 Seconds...')
     time.sleep(3)
 
