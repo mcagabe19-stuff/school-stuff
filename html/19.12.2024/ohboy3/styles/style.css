@@ -1,0 +1,27 @@
+body {
+    background-color: lightcyan;
+}
+
+.galeri {
+    width: 160px;
+    height: 90px;
+    border-style: solid;
+    border-color: darkorange;
+    border-radius: 10px;
+}
+
+.galeri2 {
+    width: 160px;
+    height: 90px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 20px;
+}
+
+.galeri3 {
+    width: 160px;
+    height: 90px;
+    border-style: ridge;
+    border-color: green;
+    border-radius: 40px;
+}

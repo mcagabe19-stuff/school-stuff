@@ -1,0 +1,74 @@
+body {
+	background:url("../images/bulut.jpg");
+	font-family:verdana;
+}
+
+#maindiv {
+    width:920px;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:10px;
+	border:1px solid #336699;
+}
+
+#bannerdiv {
+	background:url("../images/banner.jpg");
+	height:200px;
+}
+
+#menus {
+	width:200px;
+}
+
+#anasayfadiv {
+	width:695px;
+}
+
+#alt {
+	clear:both;
+	text-align:center;
+	padding:5px;
+}
+
+#anasayfadiv, #menus {
+    float:left;
+    min-height:400px;
+}
+
+#bannerdiv, #menus, #anasayfadiv, #alt {
+	margin:5px;
+	border-radius:10px;
+	border:1px solid cornflowerblue;
+	background-color:white;
+}
+
+#alt a {
+	color:#000080;
+	text-decoration:none;
+}
+
+#alt a:hover {
+	text-decoration:underline;
+}
+
+#anasayfadiv h1 {
+	font-size:24px;
+	color:#000080;
+}
+
+#anasayfadiv p {
+	text-align:justify;
+	color:cornflowerblue;
+}
+
+#menus a {
+	display:block;
+	color:#000080;
+	border:1px solid cornflowerblue;
+	background:#aaccff;
+	padding:5px;
+	margin:10px;
+	box-shadow:0 0 5px black;
+	border-radius:10px;
+	text-decoration:none;
+}
